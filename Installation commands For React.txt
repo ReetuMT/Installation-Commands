@@ -1,0 +1,43 @@
+to install vite
+1). npm create vite@latest 
+	->npm install [or] npm i
+
+2). to run the server
+	->npm run dev
+
+----------------------------------------------------------------------
+react bootstrap
+1).use this cmmd in promt.
+	npm install react-bootstrap bootstrap
+
+2). write this in main jsx file.
+ 	import 'bootstrap/dist/css/bootstrap.css'
+
+----------------------------------------------------------------------
+
+tailwind Css.
+1).use this cmmd in promt.
+	npm install -D tailwindcss
+	npx tailwindcss init
+
+2).ADD THIS TO tailwind file
+	/** @type {import('tailwindcss').Config} */
+	module.exports = {
+  	content: ["./src/**/*.{html,js}"],
+  	theme: {
+   	extend: {},
+  	},
+  	plugins: [],
+	}
+
+3). add this to index.css file
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
+
+-------------------------------------0000---------------------------------
+Material UI
+
+1).To install use this cmmd in promt.
+	npm install @mui/material @emotion/react @emotion/styled
+
