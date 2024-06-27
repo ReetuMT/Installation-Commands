@@ -41,3 +41,7 @@ Material UI
 1).To install use this cmmd in promt.
 	npm install @mui/material @emotion/react @emotion/styled
 
+-----------------------------------------------------------------------------
+Router
+1). To install "Router" use below cmd in prompt
+	npm i react-router
