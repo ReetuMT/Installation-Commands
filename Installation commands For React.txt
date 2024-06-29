@@ -45,3 +45,10 @@ Material UI
 Router
 1). To install "Router" use below cmd in prompt
 	npm i react-router
+--------------------------------------------------------------------------
+Json-Server
+1). To install "Json-server" use below cmd
+	npm install json-server
+To get the own Json-server link:
+	cd 'File Name'
+	npx json-server filename.json
