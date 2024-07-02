@@ -52,3 +52,7 @@ Json-Server
 To get the own Json-server link:
 	cd 'File Name'
 	npx json-server filename.json
+--------------------------------------------------------------------------
+Redux + React
+1). To install "Redux" use below cmd
+ 	npm i react-redux
