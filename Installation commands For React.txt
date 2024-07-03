@@ -56,3 +56,7 @@ To get the own Json-server link:
 Redux + React
 1). To install "Redux" use below cmd
  	npm i react-redux
+-----------------------------------------------------------------------
+Axios
+1). To isntall "Axios" use Below cmd --- use to get the data from the api
+	npm i axios
