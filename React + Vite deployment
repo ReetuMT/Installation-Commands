@@ -1,20 +1,23 @@
 To Push a project in GitHub
-1). git init
-2). git add .
-3). git commit -m "msg"
-4). git branch -M main
-4). For Connecting Reposotory --> git remote add origin https://github.com/{username}/projetcname.git
-5). git push -u origin main
+    1). git init
+    2). git add .
+    3). git commit -m "msg"
+    4). git branch -M main
+    4). For Connecting Reposotory --> git remote add origin https://github.com/{username}/projetcname.git
+    5). git push -u origin main
 
 To check existing project :
-1). git status
+    1). git status
+
+To Remove :
+    1).rm -rf .filename/folder
 
 To install react-vite
-npm create vite@latest
+    npm create vite@latest
 To deploy React + Vite project on Git hub
-1) Connect your repo to ur project and push all the code into it
-2) vite.config.js -> add this -> base:"/Repo_name/"
-3) npm run build
-4) git add dist -f
-5) git commit -m "msg"
-6) git subtree push --prefix dist origin gh-pages
+  1) Connect your repo to ur project and push all the code into it
+  2) vite.config.js -> add this -> base:"/Repo_name/"
+  3) npm run build
+  4) git add dist -f
+  5) git commit -m "msg"
+  6) git subtree push --prefix dist origin gh-pages
