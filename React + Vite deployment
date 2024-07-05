@@ -1,3 +1,14 @@
+To Push a project in GitHub
+1). git init
+2). git add .
+3). git commit -m "msg"
+4). git branch -M main
+4). For Connecting Reposotory --> git remote add origin https://github.com/{username}/projetcname.git
+5). git push -u origin main
+
+To check existing project :
+1). git status
+
 To install react-vite
 npm create vite@latest
 To deploy React + Vite project on Git hub
