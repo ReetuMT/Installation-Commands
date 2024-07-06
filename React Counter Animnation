@@ -1,0 +1,3 @@
+If you want Counter Animnation use Below Coomman
+    1). Install --> npm i react-countup
+    2). Import in your Component -->  import CountUp from 'react-countup';
