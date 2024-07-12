@@ -41,6 +41,12 @@ Material UI
 1).To install use this cmmd in promt.
 	npm install @mui/material @emotion/react @emotion/styled
 
+2). To install Component use below cmd:
+	npm install @mui/material @mui/styled-engine-sc styled-components
+
+3). To install icons use below cmd:
+	npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
 -----------------------------------------------------------------------------
 Router
 1). To install "Router" use below cmd in prompt
