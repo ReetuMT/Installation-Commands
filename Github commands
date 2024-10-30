@@ -1,0 +1,15 @@
+Git clone ---
+      git clone https://github.com/GTPL-Employee-App/GTPL-Frontend.git
+Adding file :
+      git add .
+commit the file :
+      git commit -m "message"
+check branch name :
+      git branch
+check branch name :
+      git branch "branch name"
+to push:
+       git push --set-upstream origin "branch name"
+
+after accepting pull request----------------------
+      git pull origin main
