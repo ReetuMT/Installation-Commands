@@ -13,3 +13,13 @@ to push:
 
 after accepting pull request----------------------
       git pull origin main
+
+-----------------Addd folders---------------
+git branch name of branch
+git checkout branch name
+git pull origin main
+git add src/app/"add your microsername"/
+git commit -m "Updated submodule"
+git push --set-upstream origin branch name
+after accepting pull request 
+git pull origin main
